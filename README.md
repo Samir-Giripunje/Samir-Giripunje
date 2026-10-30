@@ -4,9 +4,9 @@
 </picture>
 
 <p align="center">
-  <a href="https://needl.ai"><img alt="Needl.ai" src="https://img.shields.io/badge/AI_Engineer-Needl.ai-7c3aed?style=flat-square"></a>
-  <a href="https://github.com/Samir-Giripunje/swell"><img alt="Swell" src="https://img.shields.io/badge/open_source-Swell-0e7490?style=flat-square&logo=apple&logoColor=white"></a>
-  <a href="https://github.com/Samir-Giripunje/local-grammar"><img alt="Local Grammar" src="https://img.shields.io/badge/open_source-Local_Grammar-0e7490?style=flat-square&logo=apple&logoColor=white"></a>
+  <a href="https://needl.ai"><img alt="Needl.ai" src="assets/badges/needl.svg"></a>
+  <a href="https://github.com/Samir-Giripunje/swell"><img alt="Swell" src="assets/badges/swell.svg"></a>
+  <a href="https://github.com/Samir-Giripunje/local-grammar"><img alt="Local Grammar" src="assets/badges/local-grammar.svg"></a>
   <!-- Add LinkedIn / X / website badges here -->
 </p>
 
@@ -16,6 +16,7 @@ I'm an AI engineer at **[Needl.ai](https://needl.ai)**, where I build agents and
 
 - **Agentic AI.** Tool-using agents, multi-step report runners, and the plumbing that keeps them reliable in production.
 - **LLM systems.** Multi-provider routing with fallback chains across Claude, Gemini and GPT, cross-vendor chat history, golden-set evals, and keeping cost and latency bounded.
+- **Customer PoCs.** Delivered proofs of concept for 8 enterprise customers, each within its agreed timeline.
 - **On-device AI.** In my own time I build free, fully local AI apps for macOS. Nothing leaves your Mac: no cloud, no account.
 
 ## Open source
@@ -32,7 +33,7 @@ I'm an AI engineer at **[Needl.ai](https://needl.ai)**, where I build agents and
 
 <sub>`Swift` · `WhisperKit` · `Core ML` · `SwiftUI`</sub>
 
-<a href="https://github.com/Samir-Giripunje/swell/releases/latest"><img alt="Download" src="https://img.shields.io/github/v/release/Samir-Giripunje/swell?include_prereleases&style=for-the-badge&label=download&color=7c3aed"></a>
+<a href="https://github.com/Samir-Giripunje/swell/releases/latest"><img alt="Download" src="assets/badges/download-swell.svg"></a>
 
 </td>
 <td width="50%" valign="top">
@@ -45,7 +46,7 @@ I'm an AI engineer at **[Needl.ai](https://needl.ai)**, where I build agents and
 
 <sub>`Swift` · `Rust` · `MLX` · `Apple Foundation Models`</sub>
 
-<a href="https://github.com/Samir-Giripunje/local-grammar/releases/latest"><img alt="Download" src="https://img.shields.io/github/v/release/Samir-Giripunje/local-grammar?include_prereleases&style=for-the-badge&label=download&color=0e7490"></a>
+<a href="https://github.com/Samir-Giripunje/local-grammar/releases/latest"><img alt="Download" src="assets/badges/download-local-grammar.svg"></a>
 
 </td>
 </tr>
